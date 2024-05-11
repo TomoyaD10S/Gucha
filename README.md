@@ -2,7 +2,7 @@
 
 Gucha is a dynamic iOS chat application that allows users to match and chat with random people. With its sleek interface and seamless functionality, Gucha provides an engaging platform for spontaneous conversations and connections.
 
-https://apps.apple.com/us/app/gucha/id6499176845![image](https://github.com/TomoyaD10S/Gucha/assets/82310873/d7bcf8b7-b212-4482-a997-edf0b079f063)
+https://apps.apple.com/us/app/gucha/id6499176845
 
 
 ## Features
